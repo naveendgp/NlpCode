@@ -1,0 +1,7 @@
+setup.py
+Nlpanswer.egg-info/PKG-INFO
+Nlpanswer.egg-info/SOURCES.txt
+Nlpanswer.egg-info/dependency_links.txt
+Nlpanswer.egg-info/top_level.txt
+nlpcode/__init__.py
+nlpcode/answer.py
